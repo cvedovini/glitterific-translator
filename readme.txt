@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 == Description ==
 
 Automatically turns hate comments into fan comments.
-There is no reason to continuously pour over the same boring and misogynistic comments from internet trolls any longer! With the glitterific Translator all your blog comments can be as fresh and sparkly as you are.
+There is no reason to continuously pour over the same boring and misogynistic comments from internet trolls any longer! With the Glitterific Translator all your blog comments can be as fresh and sparkly as you are.
 
 Based almost wholly on code from [Danielle Sucher's "Jailbreak the Patriarchy"](https://chrome.google.com/webstore/detail/jailbreak-the-patriarchy/fiidcfoaaciclafodoficaofidfencgd) and [Glitterific's "Hatemail translator"](https://chrome.google.com/webstore/detail/glitterific-hatemail-tran/bmjpbmdfoacjfmmcfmjkpobffmlonpfa) chrome extensions. Glitterific Translator lets you automatically turn your hate comments into glitterific fan comments.
 

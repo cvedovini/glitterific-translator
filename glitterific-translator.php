@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Glitterific Translator
+Plugin Name: Glitterific Comment Translator
 Plugin URI: http://vedovini.net/plugins/?utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-linkedin
 Description: Automatically turns hate comments into fan comments.
 Author: Claude Vedovini
